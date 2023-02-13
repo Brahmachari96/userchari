@@ -15,7 +15,8 @@ import org.springframework.lang.NonNull;
 
 @Entity
 public class Product {
-	 
+	//something happens in my mind like crazy things 
+	//good human beings are coming from india;
 	@Id
 	@GeneratedValue
 	private Integer id;
